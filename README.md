@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Edwin Ofosuhene and I'm a Software Developer, from Accra,Ghana</h2>
+<h2 align="left">Hi 👋! My name is Edwin Ofosuhene and I'm a Fullstack Engineer, from Accra,Ghana</h2>
 
 ###
 
